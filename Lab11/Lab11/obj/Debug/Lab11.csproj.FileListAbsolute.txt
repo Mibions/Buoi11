@@ -1,0 +1,10 @@
+E:\Công Nghệ .Net\Lab11\Lab11\Lab11\obj\Debug\Lab11.Form1.resources
+E:\Công Nghệ .Net\Lab11\Lab11\Lab11\obj\Debug\Lab11.Properties.Resources.resources
+E:\Công Nghệ .Net\Lab11\Lab11\Lab11\obj\Debug\Lab11.csproj.GenerateResource.cache
+E:\Công Nghệ .Net\Lab11\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+E:\Công Nghệ .Net\Lab11\Lab11\Lab11\bin\Debug\Lab11.exe.config
+E:\Công Nghệ .Net\Lab11\Lab11\Lab11\bin\Debug\Lab11.exe
+E:\Công Nghệ .Net\Lab11\Lab11\Lab11\bin\Debug\Lab11.pdb
+E:\Công Nghệ .Net\Lab11\Lab11\Lab11\obj\Debug\Lab11.exe
+E:\Công Nghệ .Net\Lab11\Lab11\Lab11\obj\Debug\Lab11.pdb
+E:\Công Nghệ .Net\Lab11\Lab11\Lab11\obj\Debug\Lab11.csproj.AssemblyReference.cache
